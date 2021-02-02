@@ -1,6 +1,8 @@
 # Hello, I'm Jungmin Chang 👋
 
-![Twitter URL](https://img.shields.io/twitter/url?color=brightgreen&label=LinkedIn&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjungmin-chang-0301%2F)
+:mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@JungminChang-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JungminChang)](https://twitter.com/JungminChang) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/jungmin-chang-0301/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/c.jungmini) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jungmini0301@gmail.com)
 
 I'm a second year master's student in Public Health at McGill University. My interests revolve around health data science, surveillance & business analytics. Thanks for visiting and I'd love to connect!
 
