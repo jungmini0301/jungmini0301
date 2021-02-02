@@ -4,7 +4,7 @@
 
 I'm a second year master's student in Public Health at McGill University. My interests revolve around health data science, surveillance & business analytics. Thanks for visiting and I'd love to connect!
 
-- 🔭 I’m currently working on temporal and spatial analysis
+- 🔭 I’m currently working on temporal and spatial analysis using R
 - 🌱 I’m currently learning SAS
 - 👯 I’m looking to collaborate on health data research
 - 😄 Pronouns: She/Her
