@@ -1,6 +1,8 @@
 # Hello, I'm Jungmin Chang 👋
 
-I'm a second year master's student in Public Health at McGill University. My interests revolve around health data science, surveillance & business analytics. Thanks for visiting and I'd love to connect! :
+I'm a second year master's student in Public Health at McGill University. My interests revolve around health data science, surveillance & business analytics. Thanks for visiting and I'd love to connect!</br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jungmini0301)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jungmin-chang-0301//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:jungmini0301@gmail.com)  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,4 +14,3 @@ I'm a second year master's student in Public Health at McGill University. My int
 - ⚡ Fun fact: ...
 -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jungmini0301)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jungmin-chang-0301//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:jungmini0301@gmail.com)  
