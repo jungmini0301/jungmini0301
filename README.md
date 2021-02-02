@@ -1,6 +1,6 @@
 # Hello, I'm Jungmin Chang 👋
 
-![Twitter URL](https://img.shields.io/twitter/url?color=brightgreen&label=linkedin&logo=jungmin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjungmin-chang-0301%2F)
+![Twitter URL](https://img.shields.io/twitter/url?color=brightgreen&label=LinkedIn&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjungmin-chang-0301%2F)
 
 I'm a second year master's student in Public Health at McGill University. My interests revolve around health data science, surveillance & business analytics. Thanks for visiting and I'd love to connect!
 
