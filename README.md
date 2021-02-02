@@ -8,6 +8,5 @@ I'm a second year master's student in Public Health at McGill University. My int
 - 🌱 I’m currently learning SAS
 - 👯 I’m looking to collaborate on health data research
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'am a foodie!
--->
+- ⚡ Fun fact: I am a foodie!
 
