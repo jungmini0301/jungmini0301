@@ -1,10 +1,11 @@
 # Hello, I'm Jungmin Chang 👋
 
+I'm a second year master's student in Public Health at McGill University. My interests revolve around health data science, surveillance & business analytics. Thanks for visiting and I'd love to connect!
+
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jungmin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jungmin-chang-0301/)  [![Mail Badge](https://img.shields.io/badge/-@c.jungmini-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/c.jungmini)  [![Mail Badge](https://img.shields.io/badge/-jungmini0301-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jungmini0301@gmail.com)  [![Twitter Badge](https://img.shields.io/badge/-@JungminChang-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JungminChang)](https://twitter.com/JungminChang) 
 
-I'm a second year master's student in Public Health at McGill University. My interests revolve around health data science, surveillance & business analytics. Thanks for visiting and I'd love to connect!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jungmini0301)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jungmin-chang-0301//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:jungmini0301@gmail.com)  
 
