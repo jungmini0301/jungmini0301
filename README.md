@@ -1,6 +1,6 @@
 # Hello, I'm Jungmin Chang 👋
 
-[![gmail](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![gmail](mailto:jungmini0301@gmail.com)](mailto:jungmini0301@gmail.com)
 
 I'm a second year master's student in Public Health at McGill University. My interests revolve around health data science, surveillance & business analytics. Thanks for visiting and I'd love to connect!
 
