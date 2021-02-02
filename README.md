@@ -1,9 +1,9 @@
-### Hi I'm Jungmin Chang 👋
+### Hello, I'm Jungmin Chang 👋
 
 <!--
 **jungmini0301/jungmini0301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a second year master's student in Public Health at McGill University. My interests revolve around health data science, surveillance & business analytics. Thanks for visiting and I'd love to connect! :
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
