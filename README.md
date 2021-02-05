@@ -11,4 +11,5 @@ I'm a second year master's student in Public Health at McGill University. My int
 - ⚡ Fun fact: I am a foodie!
 
 ### :computer: Languages ###
+<img src="https://img.shields.io/badge/-R-FF8000?style=for-the-badge&logo=r"/>
 ### :books: Projects ###
