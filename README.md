@@ -10,3 +10,5 @@ I'm a second year master's student in Public Health at McGill University. My int
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a foodie!
 
+<h3> :computer: Languages I use <h3/>
+
