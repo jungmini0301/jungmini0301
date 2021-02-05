@@ -11,11 +11,6 @@ I'm a second year master's student in Public Health at McGill University. My int
 - ⚡ Fun fact: I am a foodie!
 
 ### :computer: Languages ###
-<img src="https://img.shields.io/badge/-R-FF8000?style=for-the-badge&logo=r"/>
-<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<img src="https://img.shields.io/badge/-R-FF8000?style=for-the-badge&logo=r"/>  <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>  <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>  <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
 ### :books: Projects ###
