@@ -1,6 +1,6 @@
 # Hello, I'm Jungmin Chang 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jungmin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jungmin-chang-0301/)  [![Mail Badge](https://img.shields.io/badge/-@c.jungmini-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/c.jungmini)  [![Mail Badge](https://img.shields.io/badge/-jungmini0301-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jungmini0301@gmail.com)  [![Twitter Badge](https://img.shields.io/badge/-@JungminChang-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JungminChang)](https://twitter.com/JungminChang) 
+[![Linkedin Badge](https://img.shields.io/badge/-Jungmin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jungmin-chang-0301/)  [![Mail Badge](https://img.shields.io/badge/-@c.jungmini-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/c.jungmini)  [![Mail Badge](https://img.shields.io/badge/-jungmini0301-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jungmini0301@gmail.com) 
 
 I'm a second year master's student in [Public Health](https://www.mcgill.ca/epi-biostat-occh/) at [McGill University](https://www.mcgill.ca/). My interests revolve around health data science, surveillance & business analytics. Thanks for visiting and I'd love to connect!
 
